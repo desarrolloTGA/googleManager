@@ -1,6 +1,7 @@
 <script>
   var g_EC = {
     "email" : "[name='email']",
+    //"phone_number" : "[name='phone']"
     "phone_number" : "[name='mobilephone']"
   };
 
